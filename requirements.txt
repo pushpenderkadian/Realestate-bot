@@ -1,0 +1,5 @@
+fastapi
+requests
+uvicorn
+pymongo
+pydantic_settings
